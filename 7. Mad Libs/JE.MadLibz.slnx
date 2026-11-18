@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="JE.MadLibz.UI/JE.MadLibz.UI.vcxproj" Id="329e6a1a-d7d8-466c-a3bf-75729f88d5bc" />
+</Solution>

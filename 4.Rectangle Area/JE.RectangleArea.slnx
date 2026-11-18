@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="JE.RectangleArea/JE.RectangleArea.vcxproj" Id="46ac84f2-4cc8-4e95-86ff-a9e97801d441" />
+</Solution>

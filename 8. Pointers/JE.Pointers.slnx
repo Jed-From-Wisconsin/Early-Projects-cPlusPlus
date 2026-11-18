@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="JE.Pointers.UI/JE.Pointers.UI.vcxproj" />
+</Solution>

@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Solution Items/" />
+  <Project Path="JE.Student.UI/JE.Student.UI.vcxproj" Id="3b78476e-b1a6-4cc6-b7bf-9d93ede5fb24" />
+</Solution>

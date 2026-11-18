@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="JE.MathQuiz.UI/JE.MathQuiz.UI.vcxproj" Id="e5596f1b-e3ab-44c0-bde4-891598110d2d" />
+</Solution>
